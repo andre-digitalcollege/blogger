@@ -1,6 +1,6 @@
 footer {
     display: flex;
-    position: absolute;
+    position: fixed;
     bottom: 5px;
     color: rgb(197, 91, 91);
 }
@@ -15,6 +15,10 @@ footer {
     position: absolute;
     top: 150px;
     right: 150px;
+}
+.imgindex {
+    opacity: 40%;
+    z-index: -1;
 }
 .imgequipe {
     opacity: 60%;
