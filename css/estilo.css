@@ -20,3 +20,9 @@ footer {
     opacity: 60%;
     z-index: -1;
 }
+.textequipe {
+    position: absolute;
+    top: 130px;
+    right: 350px;
+    font-size: 30px;
+}
