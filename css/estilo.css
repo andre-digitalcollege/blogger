@@ -26,3 +26,12 @@ footer {
     right: 350px;
     font-size: 30px;
 }
+::-webkit-scrollbar {
+    width: 17px;
+}
+::-webkit-scrollbar-track {
+    background: #cfced8;
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(212, 56, 56);
+}
