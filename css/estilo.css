@@ -18,6 +18,9 @@ footer {
     right: 150px;
 }
 .imgindex {
+    width: 100%;
+    height: 100%;
+    justify-content: center;
     opacity: 40%;
     z-index: -1;
 }
