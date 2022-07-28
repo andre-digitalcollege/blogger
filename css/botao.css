@@ -14,8 +14,9 @@ body{
     background: #434750;
 } 
 ul{
-    position: relative;
+    position: absolute;
     transform: skewY(-15deg);
+    left: 50px;
     
 }
 ul li{
@@ -29,7 +30,7 @@ ul li{
 }
 ul li:hover{
     background: red;
-    transform: translateX(-50px);
+    transform: translateX(20px);
 }
 ul li::before{
     content: '';
