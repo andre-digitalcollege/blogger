@@ -6,7 +6,8 @@ footer {
 }
 .imgblog {
     width: 150px;
-    position: absolute;
+    position: fixed;
+    align-items: stretch;
     top: 10px;
     border-radius: 20px;
     opacity: 80%;
