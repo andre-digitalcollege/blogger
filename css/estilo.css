@@ -1,8 +1,9 @@
 footer {
     display: flex;
     position: fixed;
-    bottom: 5px;
+    right: 0px;
     color: rgb(197, 91, 91);
+    transform: rotate(-90deg);
 }
 .imgblog {
     width: 150px;
@@ -37,6 +38,7 @@ footer {
 .botblog {
     display: flex;
     flex-direction: row;
+    justify-content: flex-start;
 }
 .botaoblog {
     border: 0;
